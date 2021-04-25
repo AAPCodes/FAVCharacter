@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    text-align: center;
+    padding-top: 20px;
+    background-color: #50C878;
+    background-repeat: no-repeat;
+    align-content: center
+}
+
+
+h1 {
+    text-shadow: 2px 2px #5a4fcf;
+    font-size: 30px;
+    color: #6f00ff;
+}
+
+h2 {
+    font-size: 25px;
+    color: #2a52be;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+    color: #ff1493;
+}
+
+img {
+    width: 250px;
+    border-radius: 70%;
+    padding: 50px;
+    text-align: center
+}
+
+.Class1 {
+    color: coral;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 25px;
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+}
+
+.Class1:hover {
+    background-color: aquamarine;
+    font-size: 30px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: cadetblue;
+}
