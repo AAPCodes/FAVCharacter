@@ -4,7 +4,7 @@ body {
     padding-top: 20px;
     background-color: #50C878;
     background-repeat: no-repeat;
-    align-content: center
+    align-content: center;
 }
 
 
@@ -29,8 +29,7 @@ h2 {
 img {
     width: 250px;
     border-radius: 70%;
-    padding: 50px;
-    text-align: center
+    padding-top: 50px;
 }
 
 .Class1 {
@@ -55,4 +54,8 @@ img {
     right: 30px;
     cursor: pointer;
     color: cadetblue;
+}
+
+html {
+    scroll-behavior: smooth;
 }
