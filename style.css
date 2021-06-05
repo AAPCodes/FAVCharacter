@@ -26,9 +26,9 @@ h2 {
     color: #ff1493;
 }
 
-img {
+#HP {
     width: 250px;
-    border-radius: 70%;
+    border-radius: 50%;
     padding-top: 50px;
 }
 
@@ -58,4 +58,29 @@ img {
 
 html {
     scroll-behavior: smooth;
+}
+
+#JKpic {
+    transition: transform .2s;
+    border: 1px solid #AAAAAA;
+    border-radius: 50%;
+}
+
+#JKpic:hover {
+    transform: scale(0.9);
+}
+
+!important {
+    color: crimson;
+    text-align: center;
+}
+
+li {
+  float:inherit;
+}
+
+a {
+  display:block;
+  padding: 7px;
+  background-color: #d70d9d;
 }
